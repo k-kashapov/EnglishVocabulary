@@ -1,0 +1,81 @@
+
+"implementations":
+Definition:
+	 the act of starting to use a plan or system
+Dictionary example:
+	 implementation of the law/agreement
+Example from article:
+	 OASIS requests that any OASIS Party or any other party that believes it has patent claims that would necessarily be infringed by implementations of this OASIS Committee Specification or OASIS Standard, to notify OASIS TC Administrator and provide an indication of its willingness to grant patent licenses to such patent claims in a manner consistent with the IPR Mode of the OASIS Technical Committee that produced this specification.
+
+
+"populated":
+Definition:
+	 (of a place) having people living there
+Dictionary example:
+	 They don't want to run the risk of bombs falling on populated areas.
+Example from article:
+	 3 Setting Up Receive Buffers It is generally a good idea to keep the receive virtqueue as fully populated as possible: if it runs out, network performance will suffer.
+
+
+"attempt":
+Definition:
+	 to try to do something, especially something difficult
+Dictionary example:
+	 [ + to infinitive ] He attempted to escape through a window.
+Example from article:
+	 Copies of claims of rights made available for publication and any assurances of licenses to be made available, or the result of an attempt made to obtain a general license or permission for the use of such proprietary rights by implementers or users of this OASIS Committee Specification or OASIS Standard, can be obtained from the OASIS TC Administrator.
+
+
+"combine":
+Definition:
+	 to (cause to) exist together, or join together to make a single thing or group
+Dictionary example:
+	 None of us has much money so let's combine what we've got.
+Example from article:
+	 9 Multi-buffer requests Some devices combine multiple buffers as part of processing of a single request.
+
+
+"keyboard":
+Definition:
+	 the set of keys on a computer or typewriter that you press in order to make it work 
+Dictionary example:
+	 Switch off the computer and unplug the keyboard.
+Example from article:
+	 8 Input Device The virtio input device can be used to create virtual human interface devices such as keyboards, mice and tablets.
+
+
+"inform":
+Definition:
+	 to tell someone about particular facts
+Dictionary example:
+	 The name of the dead man will not be released until his relatives have been informed.
+Example from article:
+	 For information on whether any patents have been disclosed that may be essential to implementing this specification, and any offers of patent licensing terms, please refer to the Intellectual Property Rights section of the TC’s web page (https://github.
+
+
+"technical":
+Definition:
+	 relating to the knowledge, machines, or methods used in science and industry
+Dictionary example:
+	 a few technical problems
+Example from article:
+	 Any other numbered Versions and other technical work produced by the Technical Committee (TC) are listed at https://www.
+
+
+"format":
+Definition:
+	 a pattern, plan, or arrangement
+Dictionary example:
+	 The meeting will have the usual format - introductory session, group work and then a time for reporting back.
+Example from article:
+	 For information on whether any patents have been disclosed that may be essential to implementing this specification, and any offers of patent licensing terms, please refer to the Intellectual Property Rights section of the TC’s web page (https://github.
+
+
+"resembles":
+Definition:
+	 to look like or be like someone or something
+Dictionary example:
+	 You resemble your mother very closely.
+Example from article:
+	 Note that this notation somewhat resembles the C bitfield syntax but should not be naively converted to a bitfield notation for portable code: it matches the way bitfields are packed by C compilers on little-endian architectures but not the way bitfields are packed by C compilers on big-endian architectures.
+

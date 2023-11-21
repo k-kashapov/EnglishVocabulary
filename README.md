@@ -3,6 +3,8 @@
 This program does the tedious English Vocabulary task for you.
 #### WARNING: It does not generate "your own sentence" required in the task. You have to do it by hand :(
 
+Requires Internet connection to parse https://dictionary.cambridge.org
+
 ## Usage
 `./Vocab.py [-i] [-c] ARTICLE_NAME.pdf [-o OUTPUT_FILE] WORD_1 WORD_2 WORD_3...`
 ```
@@ -42,3 +44,5 @@ Dictionary example:
 Example from article:
      The most obvious one is studying the group properties as a function of halo mass, where using the two-dimensional method can give better constraints on scaling relations of group halo mass with luminosity of central galaxies, their stellar mass, size, X-ray gas emission, and the concentration of such haloes.
 ```
+
+Also check out test.txt file. This is test run on a Virtio documentation.
